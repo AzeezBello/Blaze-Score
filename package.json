@@ -1,0 +1,18 @@
+{
+  "name": "blaze-score",
+  "version": "0.1.0",
+  "description": "Ad-free live soccer scores, standings and a community pick game.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "check": "node scripts/check-api.mjs",
+    "test": "node test/smoke.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "private": true
+}

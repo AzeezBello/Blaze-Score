@@ -1,0 +1,10 @@
+{
+  "name": "Blaze Score",
+  "short_name": "Blaze",
+  "description": "Ad-free live soccer scores, standings and match predictions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1411",
+  "theme_color": "#0d1411",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
